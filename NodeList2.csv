@@ -1,4 +1,5 @@
-id,name,type,sector
+id,name,sector
+
 hr,heinrich prinz preuß,adel
 fh,frank heppner,koch
 mf,michael fritsch,polizei
@@ -12,6 +13,7 @@ mr,melanie r,medizin
 pw,peter wörner,militär
 rr,rene r,kultur
 bw, birgit malsack-winkemann,politik
+
 nda,neue deutsche armee,,,
 koch,sternekoch,,,
 adel,angehörige des Adels,,,
