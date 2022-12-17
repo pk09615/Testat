@@ -1,0 +1,32 @@
+id,name,type,sector
+hr,heinrich prinz preuß,adel
+fh,frank heppner,koch
+mf,michael fritsch,polizei
+me,maximilian eder,militär
+cw,christian wendler,afd
+rl,ruth hildegard l,afd
+rp,rüdiger von p,militär
+pg,paul g,jura
+mh,marco van h,militär
+mr,melanie r,medizin
+pw,peter wörner,militär
+rr,rene r,kultur
+bw, birgit malsack-winkemann,politik
+
+nda,neue deutsche armee
+
+koch,sternekoch
+adel,angehörige des Adels
+kultur,kultureller Hintergrund
+politik,politischer Hintergrund
+polizei,ehemalige Polizisten
+militär,aktive oder ehemalige Soldaten
+afd,Angehörige der Alternativen für Deutschland
+jura,Anwälte oder Richter
+medizin,medizinischer Hintergrund oder praktizierender Arzt
+
+1,freunde
+2,liiert oder Liebesbeziehung
+3,kollegen oder in der selben Vereinigung
+4,gründer
+5,mitglied
