@@ -1,0 +1,14 @@
+from,to,relationship
+pw,rp,1
+mr,mf,2
+pw,rp,3
+me,rp,3
+me,pw,3
+rp,pw,3
+cw,rl,3
+me,nda,4
+rp,nda,5
+pw,nda,5
+cw,afd,5
+rl,afd,5
+
