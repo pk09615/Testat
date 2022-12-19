@@ -1,0 +1,11 @@
+Edge-List: Relationship
+1,freunde
+2,liiert oder Liebesbeziehung
+3,kollegen oder in der selben Vereinigung
+4,gründer
+5,mitglied
+6,Geldgeber
+
+Node-List: Type
+1,Person
+2,Vereinigung oder Organisation
