@@ -1,16 +1,16 @@
-id,name,sector
-hr,heinrich prinz preuß,adel
-fh,frank heppner,koch
-mf,michael fritsch,polizei
-me,maximilian eder,militär
-cw,christian wendler,afd
-rl,ruth hildegard l,afd
-rp,rüdiger von p,militär
-pg,paul g,jura
-mh,marco van h,militär
-mr,melanie r,medizin
-pw,peter wörner,militär
-rr,rene r,kultur
-bw, birgit malsack-winkemann,politik
-nda,neue deutsche armee,,,
-afd,Angehörige der Alternativen für Deutschland,,
+id,name,sector,type
+hr,heinrich prinz preuß,adel,1
+fh,frank heppner,koch,1
+mf,michael fritsch,polizei,1
+me,maximilian eder,militär,1
+cw,christian wendler,afd,1
+rl,ruth hildegard l,afd,1
+rp,rüdiger von p,militär,1
+pg,paul g,jura,1
+mh,marco van h,militär,1
+mr,melanie r,medizin,1
+pw,peter wörner,militär,1
+rr,rene r,kultur,1
+bw, birgit malsack-winkemann,politik,1
+nda,neue deutsche armee,,2
+afd,Angehörige der Alternativen für Deutschland,,2
