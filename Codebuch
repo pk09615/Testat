@@ -1,4 +1,10 @@
-Edge-List: Relationship
+Codebuch:
+
+Edge-List: Attribute
+from: Knoten, von dem die Verbindung ausgeht
+to: Knoten, der die Verbindung erhält
+
+Relationship:
 1,freunde
 2,liiert oder Liebesbeziehung
 3,kollegen oder in der selben Vereinigung
@@ -6,6 +12,12 @@ Edge-List: Relationship
 5,mitglied
 6,Geldgeber
 
-Node-List: Type
+Node-List: Attribute
+
+id: Kürzel der einzelnen Personen zur Identifikation
+name: ganzer Name der Personen
+sector: Bereich, für den die Person bekannt ist/in welchem Bereich sie arbeitet
+
+Type:
 1,Person
 2,Vereinigung oder Organisation
